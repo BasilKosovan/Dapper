@@ -1,0 +1,5 @@
+﻿CREATE TABLE [dbo].[Entity]
+(
+	[Id] INT PRIMARY KEY IDENTITY,
+	[Date] DATETIME NOT NULL
+)
